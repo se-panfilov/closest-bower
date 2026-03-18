@@ -1,3 +1,7 @@
+# Deprecated / Unmaintained
+This project is no longer actively maintained. It may still work, but use it at your own risk.
+Please consider forking it if you need continued support.
+
 # closest-bower
 
 [![dependency Status](https://david-dm.org/se-panfilov/closest-bower/status.svg?branch=master)](https://david-dm.org/se-panfilov/closest-bower#info=Dependencies)
